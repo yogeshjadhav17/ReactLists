@@ -1,0 +1,19 @@
+body{
+  background-color: blanchedalmond;
+  color:sienna;
+  font-size: 25px;
+  font-weight: 700;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-transform: capitalize;
+  text-align: center;
+}
+
+.actor{
+  background-color: sandybrown;
+  color:white;
+  font-size: 25px;
+  font-weight: 700;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-transform: capitalize;
+  text-align: center;
+}
